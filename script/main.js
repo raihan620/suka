@@ -21,7 +21,7 @@ const messages = [
     "terakhir",
     "tapi bohong hehe yahaha hayyuk mabar brokkk",
     "aku tau pasti kamu kesal",
-    "hmm",
+    "Visca Barça y Visca Catalunya",
     "yaudah deh",
     "padahal",
     "aku cuma mau bilang",
